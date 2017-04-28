@@ -19,5 +19,6 @@ public class Publisher {
 		factoryBean.setServiceBean(new WeatherService());
 		//4¡¢·¢²¼
 		factoryBean.create(); 
+		
 	}
 }
